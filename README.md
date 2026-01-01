@@ -1,3 +1,6 @@
+# Project Festive Wonderland!
+Festive Wonderland is a bright, cheerful VR holiday world in Meta Horizon Worlds, full of lights and fun decor. Explore cozy paths, visit the sleigh area, and enjoy the magic of the season!
+
 # Inspiration
 Festive Wonderland was inspired by the joy and warmth of the holiday season. I wanted to create a place that captures the feeling of stepping into a magical winter village, filled with colorful decorations, cozy scenes, and playful elements that spark nostalgia and imagination. The goal was to make a world that feels welcoming to everyone, whether they want to explore, socialize, or simply enjoy a comforting atmosphere.
 
